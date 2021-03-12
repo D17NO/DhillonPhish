@@ -25,7 +25,7 @@ $ bash DhillonPhish.sh
 You need to on hotspot if you not on hotspot
 Tool not work properly
 
-Waring! 
+Warning! 
 
 Tool used for fun not for revenge 
 
