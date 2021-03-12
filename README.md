@@ -1,16 +1,31 @@
-### Hi there 👋
+ Hi there 👋.... 
 
-<!--
-**D17NO/D17NO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Pkg you need to install
 
-Here are some ideas to get you started:
+$ apt update
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ apt update
+ 
+$ pkg install git
+
+$ pkg install php
+
+$ git clone https://github.com/D17NO/DhillonPhish 
+
+$ cd $HOME
+
+$ cd DhillonPhish
+
+$ chmod 777 *
+
+$ ls
+
+$ bash DhillonPhish.sh
+
+You need to on hotspot if you not on hotspot
+Tool not work properly
+
+Waring! 
+
+Tool used for fun not for revenge 
+
