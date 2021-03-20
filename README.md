@@ -2,25 +2,25 @@
 
  Pkg you need to install
 
-$ apt update
+$ `apt update`
 
-$ apt update
+$ `apt update`
  
-$ pkg install git
+$ `pkg install git`
 
-$ pkg install php
+$ `pkg install php`
 
-$ git clone https://github.com/D17NO/DhillonPhish 
+$ `git clone https://github.com/D17NO/DhillonPhish` 
 
-$ cd $HOME
+$ `cd $HOME`
 
-$ cd DhillonPhish
+$ `cd DhillonPhish`
 
-$ chmod 777 *
+$ `chmod 777 *`
 
-$ ls
+$ `ls`
 
-$ bash DhillonPhish.sh
+$ `bash DhillonPhish.sh`
 
 You need to on hotspot if you not on hotspot
 Tool not work properly
